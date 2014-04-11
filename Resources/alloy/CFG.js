@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"com.indianic.activityindicator":"1.0"}};

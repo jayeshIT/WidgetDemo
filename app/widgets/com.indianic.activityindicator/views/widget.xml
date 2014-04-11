@@ -1,0 +1,4 @@
+<Alloy>
+	<Label>I'm the default widget</Label>
+	<ActivityIndicator id="actind"></ActivityIndicator>
+</Alloy>
